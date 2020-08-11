@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-:books: :computer:
-
-Passionate about learning new things.
+Passionate about learning new things :books::computer:
 
 <!--
 **el-indioBR/el-indioBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

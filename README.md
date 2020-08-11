@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/tgmarinho/tgmarinho/master/banner.png
+<img src:"https://raw.githubusercontent.com/tgmarinho/tgmarinho/master/banner.png">
 
 ### Hi there 👋
 

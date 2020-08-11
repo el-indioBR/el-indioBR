@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-:books: Passionate about learning new things.
+:books: :computer:
+
+Passionate about learning new things.
 
 <!--
 **el-indioBR/el-indioBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Sistemas de Informação Puc-Minas. JavaScript, NodeJS, React and React Native through Rocketseat :rocket:
+
 - 📫 How to reach me: 

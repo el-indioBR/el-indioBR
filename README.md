@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently looking for an internship opportunity
+- 🔭 I am currently looking for an opportunity
 
-- 🌱 I’m currently learning Sistemas de Informação at Puc-Minas. JavaScript, NodeJS, React and React Native through Rocketseat :rocket:
+- 🌱 I’m currently learning Sistemas de Informação at Puc-Minas. HTML, CSS, JavaScript, NodeJS and React through Rocketseat :rocket:
 
 - 🤔 I’m looking for help with Java, HTML, CSS
 

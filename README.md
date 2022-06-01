@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Sistemas de Informação at Puc-Minas. HTML, CSS, JavaScript, NodeJS and React through Rocketseat :rocket:
 
-- 🤔 I’m looking for help with Java, HTML, CSS
+- 🤔 I’m looking for help with Java, HTML, CSS, JavaScript
 
 - 📫 How to reach me: 
 

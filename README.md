@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently looking for an opportunity
+- 🔭 Intern in Sistemas de Informação at Prefeitura Municipal de Itabirito
 
 - 🌱 I’m currently learning Sistemas de Informação at Puc-Minas. HTML, CSS, JavaScript, NodeJS and React through Rocketseat :rocket:
 
